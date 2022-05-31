@@ -12,5 +12,5 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.fragment_reunion_list);
     }
 
-    //LounKaka
+
 }
