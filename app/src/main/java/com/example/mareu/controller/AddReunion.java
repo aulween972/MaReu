@@ -1,14 +1,16 @@
-package com.example.mareu;
+package com.example.mareu.controller;
 
 import android.os.Bundle;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-public class AddReunionInterface extends AppCompatActivity {
+import com.example.mareu.R;
+
+public class AddReunion extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.interface_reunion);
+        setContentView(R.layout.create_reunion);
     }
 }
