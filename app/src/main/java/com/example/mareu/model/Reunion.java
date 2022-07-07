@@ -8,7 +8,8 @@ public class Reunion {
     private String place;
     private String person;
 
-    Reunion(String subject, Date time, String place, String person) {
+
+    public Reunion(String subject, Date time, String place, String person) {
 
         this.subject = subject;
         this.time = time;
@@ -21,9 +22,27 @@ public class Reunion {
         return subject;
     }
 
+    public void setSubject(String subject) {
+        this.subject = subject;
+    }
+
+    public void setTime(Date time) {
+        this.time = time;
+    }
+
+
+    public void setPlace(String place) {
+        this.place = place;
+    }
+
+    public void setPerson(String person) {
+        this.person = person;
+    }
+
     public Date getTime() {
         return time;
     }
+
 
     public String getPlace() {
         return place;

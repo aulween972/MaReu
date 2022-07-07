@@ -8,9 +8,11 @@
         <entry key="..\:/Users/blake/AndroidStudioProjects/MaReu/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.344" />
         <entry key="..\:/Users/blake/AndroidStudioProjects/MaReu/app/src/main/res/drawable/ic_launcher_background.xml" value="0.344" />
         <entry key="..\:/Users/blake/AndroidStudioProjects/MaReu/app/src/main/res/layout/activity_main.xml" value="0.1661600810536981" />
+        <entry key="..\:/Users/blake/AndroidStudioProjects/MaReu/app/src/main/res/layout/create_reunion.xml" value="0.25" />
         <entry key="..\:/Users/blake/AndroidStudioProjects/MaReu/app/src/main/res/layout/fragment_reunion.xml" value="0.1" />
         <entry key="..\:/Users/blake/AndroidStudioProjects/MaReu/app/src/main/res/layout/fragment_reunion_list.xml" value="0.33" />
         <entry key="..\:/Users/blake/AndroidStudioProjects/MaReu/app/src/main/res/layout/interface_reunion.xml" value="0.31657608695652173" />
+        <entry key="..\:/Users/blake/AndroidStudioProjects/MaReu/app/src/main/res/layout/time_picker.xml" value="0.2965811965811966" />
         <entry key="..\:/Users/blake/AndroidStudioProjects/MaReu/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.344" />
         <entry key="..\:/Users/blake/AndroidStudioProjects/MaReu/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.344" />
       </map>
